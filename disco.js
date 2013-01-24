@@ -1,5 +1,5 @@
 // Globals
-ROWS = 5
+ROWS = 52
 COLS = 7
 
 var Game = function() {
